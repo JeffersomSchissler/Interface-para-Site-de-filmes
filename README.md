@@ -1,6 +1,6 @@
 # Interface de Site Para Filmes
 
---
+---
 
 <img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/945a98fb-0c23-4192-8266-52dcbc42f75d" />
 
